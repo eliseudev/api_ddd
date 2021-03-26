@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ex02rW4ik0B4wVVqVS1yPvvY5WZA9jERHFfmG6JqnAZWluXy68/l8CGD7yiKDoqrl5wgL3biEjgCIqDRnbBkbQ==",
+  "success": true,
+  "projectFilePath": "W:\\BACKUP\\Documents\\GitHub\\api_ddd\\src\\DDDAPI.Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eliseu Oliveira\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Eliseu Oliveira\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.8.0\\microsoft.identitymodel.jsonwebtokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\Eliseu Oliveira\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "C:\\Users\\Eliseu Oliveira\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\Eliseu Oliveira\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.8.0\\system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
+    "C:\\Users\\Eliseu Oliveira\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

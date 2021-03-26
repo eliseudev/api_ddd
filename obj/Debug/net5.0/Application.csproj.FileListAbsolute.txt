@@ -1,0 +1,7 @@
+W:\ESTUDOS\api_siit_sistemas\obj\Debug\net5.0\Application.csprojAssemblyReference.cache
+W:\ESTUDOS\api_siit_sistemas\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+W:\ESTUDOS\api_siit_sistemas\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+W:\ESTUDOS\api_siit_sistemas\obj\Debug\net5.0\Application.AssemblyInfo.cs
+W:\ESTUDOS\api_siit_sistemas\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+W:\ESTUDOS\api_siit_sistemas\obj\Debug\net5.0\Application.MvcApplicationPartsAssemblyInfo.cs
+W:\ESTUDOS\api_siit_sistemas\obj\Debug\net5.0\Application.MvcApplicationPartsAssemblyInfo.cache

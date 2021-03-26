@@ -1,0 +1,9 @@
+F:\tributa_legal\api_tributa_legal\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+F:\tributa_legal\api_tributa_legal\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.dll
+F:\tributa_legal\api_tributa_legal\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\tributa_legal\api_tributa_legal\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+F:\tributa_legal\api_tributa_legal\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+F:\tributa_legal\api_tributa_legal\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+F:\tributa_legal\api_tributa_legal\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.dll
+F:\tributa_legal\api_tributa_legal\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+F:\tributa_legal\api_tributa_legal\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache

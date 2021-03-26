@@ -1,0 +1,14 @@
+F:\tributa_legal\api_tributa_legal\src\Api.Service\bin\Debug\netcoreapp3.1\Service.deps.json
+F:\tributa_legal\api_tributa_legal\src\Api.Service\bin\Debug\netcoreapp3.1\Service.dll
+F:\tributa_legal\api_tributa_legal\src\Api.Service\bin\Debug\netcoreapp3.1\Service.pdb
+F:\tributa_legal\api_tributa_legal\src\Api.Service\bin\Debug\netcoreapp3.1\Data.dll
+F:\tributa_legal\api_tributa_legal\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.dll
+F:\tributa_legal\api_tributa_legal\src\Api.Service\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\tributa_legal\api_tributa_legal\src\Api.Service\bin\Debug\netcoreapp3.1\Data.pdb
+F:\tributa_legal\api_tributa_legal\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+F:\tributa_legal\api_tributa_legal\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+F:\tributa_legal\api_tributa_legal\src\Api.Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+F:\tributa_legal\api_tributa_legal\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+F:\tributa_legal\api_tributa_legal\src\Api.Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+F:\tributa_legal\api_tributa_legal\src\Api.Service\obj\Debug\netcoreapp3.1\Service.dll
+F:\tributa_legal\api_tributa_legal\src\Api.Service\obj\Debug\netcoreapp3.1\Service.pdb
